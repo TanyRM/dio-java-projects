@@ -1,4 +1,4 @@
-package Iphone.classes;
+package Iphone.src.classes;
 
 public interface AparelhoTelefonico {
     void ligar();

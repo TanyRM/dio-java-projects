@@ -1,4 +1,4 @@
-package Iphone.classes;
+package Iphone.src.classes;
 
 public class Iphone implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical{
     public void tocarMusica() {
